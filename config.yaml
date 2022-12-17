@@ -1,9 +1,9 @@
-baseURL: https://dsevero.com/
-title: Daniel Severo
+baseURL: https://necludov.github.io
+title: Kirill Neklyudov
 theme: book
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics: "UA-82828654-2"
+# googleAnalytics: "UA-82828654-2"
 
 # Book configuration
 disablePathToLower: true
@@ -21,23 +21,20 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/dsevero"
+      url: "https://github.com/necludov"
       weight: 1
     - name: "Google Scholar"
-      url: "https://scholar.google.fr/citations?user=5bQjLz4AAAAJ"
+      url: "https://scholar.google.com/citations?user=eOttYWgAAAAJ&hl=en"
       weight: 2
     - name: "LinkedIn"
-      url: "https://www.linkedin.com/in/danielsevero/"
+      url: "https://www.linkedin.com/in/kirill-neklyudov/"
       weight: 3 
     - name: "Twitter"
-      url: "https://twitter.com/_dsevero"
+      url: "https://twitter.com/k_neklyudov"
       weight: 4 
     - name: "CV"
       url: "/cv.pdf"
       weight: 5
-    - name: "Notebooks"
-      url: "https://github.com/dsevero/dsevero.com/tree/master/notebooks"
-      weight: 6 
 
 params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
@@ -59,7 +56,7 @@ params:
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/dsevero/dsevero.com
+  BookRepo: https://github.com/necludov/necludov.github.io
 
   # Enable "Edit this page" links for 'doc' page type.
   # Disabled by default. Uncomment to enable. Requires 'BookRepo' param.
