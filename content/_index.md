@@ -49,5 +49,7 @@ Kirill Neklyudov, Dmitry Molchanov, Arsenii Ashukha, Dmitry Vetrov\
 ---
 - [Langevin dynamics for sampling and global optimization](https://www.youtube.com/watch?v=3-KzIjoFJy4), 2019
 - [Sparse variational dropout and variance networks](https://www.youtube.com/watch?v=UFpy4V2ONVY), 2018
+
+# Email
 ---
 You can find my email in my papers.

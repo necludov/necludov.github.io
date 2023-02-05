@@ -1,29 +1,31 @@
 ---
-title: "Continuity equation."
-subtitle: ""
-summary: "Simple derivation of the continuity equation"
-authors: []
-tags: []
-categories: []
-date: 2019-02-25T14:33:30-03:00
-lastmod: 2019-02-25T14:33:30-03:00
-featured: false
-draft: false
+title: Continuity equation
+name: Continuity equation
+type: docs
+# subtitle: "Continuity equation"
+# summary: "Simple derivation of the continuity equation"
+# authors: []
+# tags: []
+# categories: []
+# date: 2019-02-25T14:33:30-03:00
+# lastmod: 2019-02-25T14:33:30-03:00
+# featured: false
+# draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: ""
+#   focal_point: ""
+#   preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+# projects: []
 ---
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
