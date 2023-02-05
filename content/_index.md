@@ -17,7 +17,6 @@ Since then I'm interested in studying and understanding nature in all its forms 
 ---
 - **Action Matching**\
 Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani\
-Preprint, 2022\
 [[arXiv]](https://arxiv.org/abs/2210.06662) [[github]](https://github.com/necludov/jam) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing)
 ### MCMC
 ---
