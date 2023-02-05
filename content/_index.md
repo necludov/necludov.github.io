@@ -10,7 +10,7 @@ I'm a postdoc at [Vector Institute](https://vectorinstitute.ai/) researching gen
 
 
 I was born in Sevastopol (Ukraine) and at the age of 13 I started competing in Ukrainian olympiads on math and physics. 
-Since then I'm interested in studying and understanding nature in all its forms from abstract fields (math, physics, computer science, which I have been studying whole my life) to the practical fields (history, biology, humanities, which I study from pop-science sources in my free time).
+Since then I'm interested in studying and understanding nature in all its forms from abstract fields (math, physics, computer science, which I have been studying my whole life) to the practical fields (history, biology, humanities, which I study from pop-science sources in my free time).
 
 
 # Selected Papers
