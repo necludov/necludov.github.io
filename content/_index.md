@@ -17,7 +17,7 @@ Since then I'm interested in studying and understanding nature in all its forms 
 ---
 - **Action Matching**\
 Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani\
-[[arXiv]](https://arxiv.org/abs/2210.06662) [[github]](https://github.com/necludov/jam) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing)
+[[arXiv]](https://arxiv.org/abs/2210.06662) [[github]](https://github.com/necludov/jam) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing) [[talk]](https://www.youtube.com/watch?v=35uEI5ryDRQ)
 ### MCMC
 ---
 - **Orbital MCMC (AISTATS 2022, oral)**\
@@ -46,6 +46,7 @@ Kirill Neklyudov, Dmitry Molchanov, Arsenii Ashukha, Dmitry Vetrov\
 
 # Talks
 ---
+- [Action Matching talk at Shannon's Bandwagon](https://www.youtube.com/watch?v=35uEI5ryDRQ), 2023
 - [Langevin dynamics for sampling and global optimization](https://www.youtube.com/watch?v=3-KzIjoFJy4), 2019
 - [Sparse variational dropout and variance networks](https://www.youtube.com/watch?v=UFpy4V2ONVY), 2018
 
