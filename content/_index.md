@@ -11,8 +11,7 @@ I was born in Sevastopol (Ukraine) and at the age of 13 I started competing in U
 
 {{< hint info >}}
 **Regarding the war**\
-I know at least one of the teachers who has been organizing Ukrainian physics olympiads for me and who now fights for Ukraine with an AR in his hands.
-The help for Ukraine is needed more than ever before. [The list of organizations where you can make a donation.](https://standforukraine.com/)
+I know teachers who organized the Ukrainian Physics Olympiad when I was a kid but now fight for Ukraine with an AR in their hands. Ukraine needs help now more than ever. [Here’s a list of organizations where you can make a donation](https://standforukraine.com/).
 {{< /hint >}}
 
 # Selected Papers
