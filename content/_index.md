@@ -5,17 +5,24 @@ type: docs
 
 # About me
 ---
-I'm a postdoc at [Vector Institute](https://vectorinstitute.ai/) researching generative modeling, AI applications in natural sciences, MCMC with [Alireza Makhzani](http://alireza.ai). Previously I was a postdoc at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ). 
+I'm a postdoc at [Vector Institute](https://vectorinstitute.ai/) studying generative modeling, AI4Science, Optimal Transport, Differential Geometry of probability spaces, MCMC with [Alireza Makhzani](http://alireza.ai). Previously I was a postdoc at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ). 
 
+I was born in Sevastopol (Ukraine) and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try hard to study in my free time).
 
-
-I was born in Sevastopol (Ukraine) and at the age of 13 I started competing in Ukrainian olympiads on math and physics. 
-Since then I'm interested in studying and understanding nature in all its forms from abstract fields (math, physics, computer science, which I have been studying my whole life) to the practical fields (history, biology, humanities, which I study from pop-science sources in my free time).
-
+{{< hint info >}}
+**Regarding the war**\
+I know at least one of the teachers who has been organizing Ukrainian physics olympiads for me and who now fights for Ukraine with an AR in his hands.
+The help for Ukraine is needed more than ever before. [The list of organizations where you can make a donation.](https://standforukraine.com/)
+{{< /hint >}}
 
 # Selected Papers
+### My recent works
 ---
-- **Action Matching**\
+- **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation**\
+Kirill Neklyudov, Jannes Nys, Luca Thiede, Juan Carrasquilla, Qiang Liu,\
+Max Welling, Alireza Makhzani\
+[[arXiv]](https://arxiv.org/abs/2307.07050) [[github]](https://github.com/necludov/wqmc)
+- **Action Matching: Learning Stochastic Dynamics from Samples (ICML 2023)**\
 Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani\
 [[arXiv]](https://arxiv.org/abs/2210.06662) [[github]](https://github.com/necludov/jam) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing) [[talk]](https://www.youtube.com/watch?v=35uEI5ryDRQ)
 ### MCMC
