@@ -3,21 +3,33 @@ title: About me
 type: docs
 ---
 
+<img src="me.jpg" style="width:150px; height: 150px; border-radius: 15%; float: right; padding-right: 0px ">
+
 # About me
+
 ---
 I'm a postdoc at [Vector Institute](https://vectorinstitute.ai/) studying generative modeling, AI4Science, Optimal Transport, Differential Geometry of probability spaces, MCMC with [Alireza Makhzani](http://alireza.ai). Previously I was a postdoc at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ). 
 
-I was born in Sevastopol (Ukraine) and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try hard to study in my free time).
+I was born in Sevastopol, Ukraine, and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try to study in my free time).
 
 {{< hint info >}}
 **Regarding the war**\
 I know teachers who organized the Ukrainian Physics Olympiad when I was a kid but now fight for Ukraine with an AR in their hands. Ukraine needs help now more than ever. [Here’s a list of organizations where you can make a donation](https://standforukraine.com/).
 {{< /hint >}}
 
+{{< hint warning >}}
+**Mentoring**\
+Part of my time I devote to mentoring at [Brave Generation](https://bravegeneration.org/). Regardless of your background, don't hesitate to reach out if you have any questions about research or academia.
+{{< /hint >}}
+
 # Selected Papers
-### My recent works
+### AI for Science
 ---
-- **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation**\
+- **A Computational Framework for Solving Wasserstein Lagrangian Flows**\
+\{Kirill Neklyudov, Rob Brekelmans\}<sup>*</sup>, Alexander Tong, Lazar Atanackovic,\
+Qiang Liu, Alireza Makhzani\
+[[arXiv]](https://arxiv.org/abs/2310.10649) [[github]](https://github.com/necludov/wl-mechanics)
+- **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation  (NeurIPS 2023, spotlight)**\
 Kirill Neklyudov, Jannes Nys, Luca Thiede, Juan Carrasquilla, Qiang Liu,\
 Max Welling, Alireza Makhzani\
 [[arXiv]](https://arxiv.org/abs/2307.07050) [[github]](https://github.com/necludov/wqmc)
@@ -52,6 +64,7 @@ Kirill Neklyudov, Dmitry Molchanov, Arsenii Ashukha, Dmitry Vetrov\
 
 # Talks
 ---
+- [Action Matching talk at LoGG's seminar](https://www.youtube.com/watch?v=AdesAB80oRM), 2023
 - [Action Matching talk at Shannon's Bandwagon](https://www.youtube.com/watch?v=35uEI5ryDRQ), 2023
 - [Langevin dynamics for sampling and global optimization](https://www.youtube.com/watch?v=3-KzIjoFJy4), 2019
 - [Sparse variational dropout and variance networks](https://www.youtube.com/watch?v=UFpy4V2ONVY), 2018
