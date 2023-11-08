@@ -3,11 +3,10 @@ title: About me
 type: docs
 ---
 
-<img src="me.jpg" style="width:150px; height: 150px; border-radius: 15%; float: right; padding-right: 0px ">
-
 # About me
 
----
+<img src="me.jpg" style="width:250px; height: 250px; border-radius: 15%; float: right; padding-right: 0px ">
+
 I'm a postdoc at [Vector Institute](https://vectorinstitute.ai/) studying generative modeling, AI4Science, Optimal Transport, Differential Geometry of probability spaces, MCMC with [Alireza Makhzani](http://alireza.ai). Previously I was a postdoc at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ). 
 
 I was born in Sevastopol, Ukraine, and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try to study in my free time).
