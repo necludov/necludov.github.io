@@ -33,7 +33,7 @@ menu:
       url: "https://twitter.com/k_neklyudov"
       weight: 4 
     - name: "CV"
-      url: "/cv.pdf"
+      url: "/cv_Neklyudov.pdf"
       weight: 5
 
 params:
