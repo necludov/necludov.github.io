@@ -27,7 +27,7 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 ---
 - **Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling (NeurIPS 2024, spotlight)**\
 Yuanqi Du, Michael Plainer, Rob Brekelmans, Chenru Duan, Frank Noé, Carla P. Gomes, \
-Alan Apsuru-Guzik, <ins>Kirill Neklyudov</ins>\
+Alan Aspuru-Guzik, <ins>Kirill Neklyudov</ins>\
 [[arXiv]](https://arxiv.org/abs/2410.07974) [[github]](https://github.com/plainerman/Variational-Doob) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcmEbec06cH4yk0t8vOIt8r1Gm-VjQZ0?usp=sharing)
 - **A Computational Framework for Solving Wasserstein Lagrangian Flows (ICML 2024)**\
 \{<ins>Kirill Neklyudov</ins>, Rob Brekelmans\}<sup>*</sup>, Alexander Tong, Lazar Atanackovic,\
