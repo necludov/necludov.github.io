@@ -35,6 +35,9 @@ menu:
     - name: "CV"
       url: "/cv_Neklyudov.pdf"
       weight: 5
+    - name: "YouTube"
+      url: "https://www.youtube.com/@k_neklyudov"
+      weight: 6
 
 params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
