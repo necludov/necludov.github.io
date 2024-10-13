@@ -28,41 +28,53 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 - **Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling (NeurIPS 2024, spotlight)**\
 Yuanqi Du, Michael Plainer, Rob Brekelmans, Chenru Duan, Frank Noé, Carla P. Gomes, \
 Alan Aspuru-Guzik, <ins>Kirill Neklyudov</ins>\
-[[arXiv]](https://arxiv.org/abs/2410.07974) [[github]](https://github.com/plainerman/Variational-Doob) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcmEbec06cH4yk0t8vOIt8r1Gm-VjQZ0?usp=sharing)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.07974) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/plainerman/Variational-Doob) 
+[![Open In Colab](https://img.shields.io/badge/Colab-e37e3d.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1FcmEbec06cH4yk0t8vOIt8r1Gm-VjQZ0?usp=sharing)
 - **A Computational Framework for Solving Wasserstein Lagrangian Flows (ICML 2024)**\
 \{<ins>Kirill Neklyudov</ins>, Rob Brekelmans\}<sup>*</sup>, Alexander Tong, Lazar Atanackovic,\
 Qiang Liu, Alireza Makhzani\
-[[arXiv]](https://arxiv.org/abs/2310.10649) [[github]](https://github.com/necludov/wl-mechanics)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2310.10649) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/wl-mechanics)
 - **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation  (NeurIPS 2023, spotlight)**\
 <ins>Kirill Neklyudov</ins>, Jannes Nys, Luca Thiede, Juan Carrasquilla, Qiang Liu,\
 Max Welling, Alireza Makhzani\
-[[arXiv]](https://arxiv.org/abs/2307.07050) [[github]](https://github.com/necludov/wqmc)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2307.07050) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/wqmc)
 - **Action Matching: Learning Stochastic Dynamics from Samples (ICML 2023)**\
 <ins>Kirill Neklyudov</ins>, Rob Brekelmans, Daniel Severo, Alireza Makhzani\
-[[arXiv]](https://arxiv.org/abs/2210.06662) [[github]](https://github.com/necludov/jam) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing) [[talk]](https://www.youtube.com/watch?v=35uEI5ryDRQ)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2210.06662) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/jam) 
+[![Open In Colab](https://img.shields.io/badge/Colab-e37e3d.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1-vGU7r8rvsA2m0VWQvzfnsn2pUWfOuYL?usp=sharing) 
+<!-- [[talk]](https://www.youtube.com/watch?v=35uEI5ryDRQ) -->
 ### MCMC
 ---
 - **Orbital MCMC (AISTATS 2022, oral)**\
 <ins>Kirill Neklyudov</ins>, Max Welling\
-[[arXiv]](https://arxiv.org/abs/2010.08047) [[github]](https://github.com/necludov/oMCMC)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2010.08047) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/oMCMC)
 - **Involutive MCMC: a Unifying Framework  (ICML 2020)**\
 <ins>Kirill Neklyudov</ins>, Max Welling, Evgenii Egorov, Dmitry Vetrov\
-[[arXiv]](https://arxiv.org/abs/2006.16653) [[github]](https://github.com/necludov/iMCMC)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2006.16653) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/iMCMC)
 - **Deterministic Gibbs Sampling via ODEs**\
 <ins>Kirill Neklyudov</ins>, Roberto Bondesan, Max Welling\
-[[arXiv]](https://arxiv.org/abs/2106.10188) [[github]](https://github.com/necludov/continuous-gibbs)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2106.10188) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/continuous-gibbs)
 - **The Implicit Metropolis-Hastings Algorithm (NeurIPS 2019)**\
 <ins>Kirill Neklyudov</ins>, Evgenii Egorov, Dmitry Vetrov\
-[[arXiv]](https://arxiv.org/abs/1906.03644)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/1906.03644)
 
 ### Bayesian Deep Learning
 ---
 - **Variance Networks (ICLR 2019)**\
 \{<ins>Kirill Neklyudov</ins>, Dmitry Molchanov, Arsenii Ashukha\}<sup>*</sup>, Dmitry Vetrov\
-[[arXiv]](https://arxiv.org/abs/1803.03764) [[github]](https://github.com/da-molchanov/variance-networks)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/1803.03764) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/da-molchanov/variance-networks)
 - **Structured Bayesian Pruning (NeurIPS 2017)**\
 <ins>Kirill Neklyudov</ins>, Dmitry Molchanov, Arsenii Ashukha, Dmitry Vetrov\
-[[arXiv]](https://arxiv.org/abs/1705.07283) [[github]](https://github.com/necludov/group-sparsity-sbp)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/1705.07283) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/group-sparsity-sbp)
 
 \* *(joint main-authorship)*
 
