@@ -25,6 +25,12 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 # Selected Papers
 ### AI for Science
 ---
+- **The Superposition of Diffusion Models Using the Itô Density Estimator (ICLR 2025, spotlight)**\
+Marta Skreta, Lazar Atanackovic, Avishek Joey Bose, Alexander Tong, <ins>Kirill Neklyudov</ins>\
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2412.17762) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/super-diffusion) 
+[![Open In Colab](https://img.shields.io/badge/Colab-e37e3d.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1iCEiQUMXmQREjT6pUYQ6QOw1_0EAqa82?usp=sharing)
+[![HF](https://img.shields.io/badge/HuggingFace-1f27ca.svg?style=for-the-badge&logo=HuggingFace&logoColor=yellow)](https://huggingface.co/superdiff/)
 - **Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling (NeurIPS 2024, spotlight)**\
 Yuanqi Du, Michael Plainer, Rob Brekelmans, Chenru Duan, Frank Noé, Carla P. Gomes, \
 Alan Aspuru-Guzik, <ins>Kirill Neklyudov</ins>\
