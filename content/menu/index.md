@@ -2,4 +2,4 @@
 headless: true
 ---
 
-- [About me]({{< relref "/" >}})
+- [About me]()

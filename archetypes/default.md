@@ -1,6 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title: "Default Archetype"
+date: 2023-10-01
 ---
 
