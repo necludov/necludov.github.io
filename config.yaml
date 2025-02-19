@@ -1,6 +1,6 @@
 baseURL: https://necludov.github.io
 title: Kirill Neklyudov / (Kyrylo Nekliudov)
-theme: book
+theme: hugo-book
 
 # Enable analytics by entering your Google Analytics tracking ID
 # googleAnalytics: "UA-82828654-2"
