@@ -30,7 +30,7 @@ jobs:
 
       # Step 4: Upload artifact
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public  # Hugo generates the site in the `public` directory
 
