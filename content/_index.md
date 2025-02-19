@@ -12,15 +12,15 @@ I’m an Assistant Professor at the [University of Montreal](https://dms.umontre
 
 I was born in Sevastopol, Ukraine, and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try to study in my free time).
 
-{{< hint info >}}
-**Regarding the war**\
+{{% hint info %}}
+**Regarding the war**
 I know teachers who organized the Ukrainian Physics Olympiad when I was a kid but now fight for Ukraine with an AR in their hands. Ukraine needs help now more than ever. [Here’s a list of organizations where you can make a donation](https://standforukraine.com/).
-{{< /hint >}}
+{{% /hint %}}
 
-{{< hint warning >}}
-**Mentoring**\
+{{% hint warning %}}
+**Mentoring**
 I used to devote part of my time to mentoring at [Brave Generation](https://bravegeneration.org/). Regardless of your background, don't hesitate to reach out if you have any questions about research or academia.
-{{< /hint >}}
+{{% /hint %}}
 
 # Selected Papers
 ### AI for Science
