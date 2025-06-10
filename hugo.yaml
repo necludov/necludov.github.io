@@ -39,8 +39,8 @@ menu:
       url: "/cv_Neklyudov.pdf"
       weight: 6
     - name: "Group"
-      url: "/group"
-      weight: 6
+      url: "/group/"
+      weight: 7
 
 params:
   # (Optional, default true) Controls table of contents visibility on right side of pages.
