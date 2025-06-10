@@ -5,10 +5,10 @@ type: docs
 
 # About me
 
-<img src="me.jpg" style="width:250px; height: 250px; border-radius: 15%; float: right; padding-right: 0px ">
+<img src="me.jpg" style="width:260px; height: 260px; border-radius: 15%; float: right; padding-right: 0px ">
 
 
-I’m an Assistant Professor at the [University of Montreal](https://dms.umontreal.ca/en/) and a Core Academic Member at [Mila - Quebec AI Institute](https://mila.quebec/) developing novel methods in generative modelling, Monte Carlo methods, Optimal Transport, and applying those to solve fundamental problems in natural sciences, e.g. finding eigenstates of the many-body Schrodinger equation, simulating molecular dynamics, predicting the development of biological cells, conformational sampling, and protein folding. Previously, I did two postdocs: at [Vector Institute](https://vectorinstitute.ai/) with [Alán Aspuru-Guzik](https://www.matter.toronto.edu/basic-content-page/about-alan) and [Alireza Makhzani](http://alireza.ai); at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ).
+I’m an Assistant Professor at the [University of Montreal](https://dms.umontreal.ca/en/), Core Academic Member at [Mila - Quebec AI Institute](https://mila.quebec/) and a regular member of [Institut Courtois](https://institut-courtois.umontreal.ca/) developing novel methods in generative modelling, Monte Carlo methods, Optimal Transport, and applying those to solve fundamental problems in natural sciences, e.g. finding eigenstates of the many-body Schrodinger equation, simulating molecular dynamics, predicting the development of biological cells, conformational sampling, and protein folding. Previously, I did two postdocs: at [Vector Institute](https://vectorinstitute.ai/) with [Alán Aspuru-Guzik](https://www.matter.toronto.edu/basic-content-page/about-alan) and [Alireza Makhzani](http://alireza.ai); at the University of Amsterdam with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ).
 
 I was born in Sevastopol, Ukraine, and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try to study in my free time).
 
@@ -25,14 +25,19 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 # Selected Papers
 ### AI for Science
 ---
+- **Feynman-Kac Correctors: Annealing, Guidance, and Product of Experts (ICML 2025, spotlight)**\
+\{Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian\}<sup>\*</sup>, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.02819) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/martaskrt/fkc-diffusion) 
+[![Open In Colab](https://img.shields.io/badge/Colab-e37e3d.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1rxFvVLcelZuYW96isyb9-DqGJt6qz7nQ?usp=sharing)
 - **The Superposition of Diffusion Models Using the Itô Density Estimator (ICLR 2025, spotlight)**\
-Marta Skreta, Lazar Atanackovic, Avishek Joey Bose, Alexander Tong, <ins>Kirill Neklyudov</ins>\
+\{Marta Skreta, Lazar Atanackovic\}<sup>\*</sup>, Avishek Joey Bose, Alexander Tong, <ins>Kirill Neklyudov</ins>\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2412.17762) 
 [![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/super-diffusion) 
 [![Open In Colab](https://img.shields.io/badge/Colab-e37e3d.svg?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1iCEiQUMXmQREjT6pUYQ6QOw1_0EAqa82?usp=sharing)
 [![HF](https://img.shields.io/badge/HuggingFace-1f27ca.svg?style=for-the-badge&logo=HuggingFace&logoColor=yellow)](https://huggingface.co/superdiff/)
-- **Doob's Lagrangian: A Sample-Efficient Variational Approach to Transition Path Sampling (NeurIPS 2024, spotlight)**\
-Yuanqi Du, Michael Plainer, Rob Brekelmans, Chenru Duan, Frank Noé, Carla P. Gomes, \
+- **Doob's Lagrangian: Variational Approach to Transition Path Sampling (NeurIPS 2024, spotlight)**\
+\{Yuanqi Du, Michael Plainer, Rob Brekelmans\}<sup>\*</sup>, Chenru Duan, Frank Noé, Carla P. Gomes, \
 Alan Aspuru-Guzik, <ins>Kirill Neklyudov</ins>\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.07974) 
 [![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/plainerman/Variational-Doob) 
@@ -86,6 +91,8 @@ Max Welling, Alireza Makhzani\
 
 # Talks
 ---
+- [Controlling Diffusion Models at Inference Time at Chalmers AI4Science](https://youtu.be/6q7bLWOIraU?si=wCc4vcMEjTd5_GNw), 2025
+- [Wasserstein Lagrangian Flows at LoGG's seminar](https://youtu.be/fTVuyPgrWGM?si=lbS1BxElGLNQNNLD), 2024
 - [Action Matching talk at LoGG's seminar](https://www.youtube.com/watch?v=AdesAB80oRM), 2023
 - [Action Matching talk at Shannon's Bandwagon](https://www.youtube.com/watch?v=35uEI5ryDRQ), 2023
 - [Langevin dynamics for sampling and global optimization](https://www.youtube.com/watch?v=3-KzIjoFJy4), 2019

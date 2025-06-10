@@ -32,11 +32,14 @@ menu:
     - name: "Twitter"
       url: "https://twitter.com/k_neklyudov"
       weight: 4 
-    - name: "CV"
-      url: "/cv_Neklyudov.pdf"
-      weight: 5
     - name: "YouTube"
       url: "https://www.youtube.com/@k_neklyudov"
+      weight: 5
+    - name: "CV"
+      url: "/cv_Neklyudov.pdf"
+      weight: 6
+    - name: "Group"
+      url: "/group"
       weight: 6
 
 params:
