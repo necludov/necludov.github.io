@@ -92,6 +92,7 @@ Max Welling, Alireza Makhzani\
 # Talks
 ---
 - [Controlling Diffusion Models at Inference Time at Chalmers AI4Science](https://youtu.be/6q7bLWOIraU?si=wCc4vcMEjTd5_GNw), 2025
+- [Doob's Lagrangian at the join seminar of IVADO, Institut Courtois, Perimeter Institute](https://pirsa.org/24110049), 2024
 - [Wasserstein Lagrangian Flows at LoGG's seminar](https://youtu.be/fTVuyPgrWGM?si=lbS1BxElGLNQNNLD), 2024
 - [Action Matching talk at LoGG's seminar](https://www.youtube.com/watch?v=AdesAB80oRM), 2023
 - [Action Matching talk at Shannon's Bandwagon](https://www.youtube.com/watch?v=35uEI5ryDRQ), 2023
