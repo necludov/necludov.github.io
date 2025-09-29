@@ -25,6 +25,15 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 # Selected Papers
 ### AI for Science
 ---
+- **Amortized Sampling with Transferable Normalizing Flows (NeurIPS 2025)**\
+\{Charlie B. Tan, Majdi Hassan\}<sup>\*</sup>, Leon Klein, Saifuddin Syed, Dominique Beaini, Michael M. Bronstein, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2508.18175) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/transferable-samplers/transferable-samplers)
+[![HF](https://img.shields.io/badge/HuggingFace-1f27ca.svg?style=for-the-badge&logo=HuggingFace&logoColor=yellow)](https://huggingface.co/datasets/transferable-samplers/many-peptides-md)
+- **Progressive Inference-Time Annealing of Diffusion Models (NeurIPS 2025, spotlight)**\
+\{Tara Akhound-Sadegh, Jungyoon Lee\}<sup>\*</sup>, Avishek Joey Bose, Valentin De Bortoli, Arnaud Doucet, Michael M. Bronstein, Dominique Beaini, Siamak Ravanbakhsh, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://www.arxiv.org/abs/2506.16471) 
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://huggingface.co/datasets/transferable-samplers/many-peptides-md)
 - **Feynman-Kac Correctors: Annealing, Guidance, and Product of Experts (ICML 2025, spotlight)**\
 \{Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian\}<sup>\*</sup>, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.02819) 
@@ -47,7 +56,7 @@ Alan Aspuru-Guzik, <ins>Kirill Neklyudov</ins>\
 Qiang Liu, Alireza Makhzani\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2310.10649) 
 [![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/necludov/wl-mechanics)
-- **Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation  (NeurIPS 2023, spotlight)**\
+- **Wasserstein Quantum Monte Carlo: Solving the Schrödinger Equation  (NeurIPS 2023, spotlight)**\
 <ins>Kirill Neklyudov</ins>, Jannes Nys, Luca Thiede, Juan Carrasquilla, Qiang Liu,\
 Max Welling, Alireza Makhzani\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2307.07050) 
