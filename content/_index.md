@@ -12,6 +12,11 @@ I’m an Assistant Professor at the [University of Montreal](https://dms.umontre
 
 I was born in Sevastopol, Ukraine, and at the age of 13 I started competing in Ukrainian olympiads on math and physics. Since then I’ve been interested in studying and understanding nature in all its forms from abstract (math, physics, computer science) to practical fields (history, biology, humanities, which I also try to study in my free time).
 
+{{% hint success %}}
+**On Leave**
+I'm currently on leave working at Anthropic with [Jascha Sohl-Dickstein](https://sohldickstein.com/).
+{{% /hint %}}
+
 {{% hint info %}}
 **Regarding the war**
 I know teachers who organized the Ukrainian Physics Olympiad when I was a kid but now fight for Ukraine with an AR in their hands. Ukraine needs help now more than ever. [Here’s a list of organizations where you can make a donation](https://standforukraine.com/).
@@ -33,7 +38,7 @@ I used to devote part of my time to mentoring at [Brave Generation](https://brav
 - **Progressive Inference-Time Annealing of Diffusion Models (NeurIPS 2025, spotlight)**\
 \{Tara Akhound-Sadegh, Jungyoon Lee\}<sup>\*</sup>, Avishek Joey Bose, Valentin De Bortoli, Arnaud Doucet, Michael M. Bronstein, Dominique Beaini, Siamak Ravanbakhsh, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://www.arxiv.org/abs/2506.16471) 
-[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://huggingface.co/datasets/transferable-samplers/many-peptides-md)
+[![github](https://img.shields.io/badge/GitHub-3670A0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/taraak/pita)
 - **Feynman-Kac Correctors: Annealing, Guidance, and Product of Experts (ICML 2025, spotlight)**\
 \{Marta Skreta, Tara Akhound-Sadegh, Viktor Ohanesian\}<sup>\*</sup>, Roberto Bondesan, Alán Aspuru-Guzik, Arnaud Doucet, Rob Brekelmans, \{Alexander Tong, <ins>Kirill Neklyudov</ins>\}<sup>\*</sup>\
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2503.02819) 
